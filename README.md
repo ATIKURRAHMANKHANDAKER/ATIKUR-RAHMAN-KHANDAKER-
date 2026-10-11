@@ -33,6 +33,6 @@ An **English Studies** student at Mohammed V University with a background in **C
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATIKUR RAHMAN KHANDAKER&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATIKUR RAHMAN KHANDAKER&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ATIKUR_RAHMAN_KHANDAKER&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATIKUR_RAHMAN_KHANDAKER&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
