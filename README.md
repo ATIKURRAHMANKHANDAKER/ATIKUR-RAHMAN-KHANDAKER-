@@ -25,7 +25,7 @@ An **English Studies** student at Mohammed V University with a background in **C
 ### 🚀 What I'm Up To
 - 🌐 Building and deploying full-stack web projects using Node.js & MongoDB.
 - 🐧 Customizing shell automation scripts and lightweight desktop configurations in Linux Mint.
-- 📚 Studying Modern Standard Arabic & pursuing academic exchanges in Europe.
+- 📚 Studying Modern Standard Arabic.
 - 🎬 Editing video & digital content for media channels (*Pitch Motion* & *Everyday Motion*).
 
 ---
